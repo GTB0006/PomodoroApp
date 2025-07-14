@@ -80,7 +80,7 @@ pyinstaller --onefile --icon=pomo.ico --hidden-import=plyer.platforms.win.notifi
 ## 🧑‍💻 Autor
 
 Desarrollado por **Cristian Camilo**  
-Con asistencia técnica de ChatGPT (OpenAI)
+
 
 ---
 
